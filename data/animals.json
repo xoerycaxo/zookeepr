@@ -135,6 +135,15 @@
         "hungry"
       ],
       "id": "13"
+    },
+    {
+      "name": "red",
+      "species": "reptile",
+      "diet": "carnivore",
+      "personalityTraits": [
+        "loving"
+      ],
+      "id": "14"
     }
   ]
 }
